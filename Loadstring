@@ -1,75 +1,75 @@
 -- numeric data
 local __OBC_NUMBERS = {}
-local __OBC_N_5186 = ((6089+428)-428)
-__OBC_NUMBERS[1] = __OBC_N_5186
-local __OBC_N_2445 = ((3004+418)-418)
-__OBC_NUMBERS[2] = __OBC_N_2445
-local __OBC_N_2360 = ((2322*3)-4644)
-__OBC_NUMBERS[3] = __OBC_N_2360
-local __OBC_N_6027 = (5790+0)
-__OBC_NUMBERS[4] = __OBC_N_6027
-local __OBC_N_4202 = ((4925+47)-47)
-__OBC_NUMBERS[5] = __OBC_N_4202
-local __OBC_N_8027 = ((3621*3)-7242)
-__OBC_NUMBERS[6] = __OBC_N_8027
-local __OBC_N_4549 = ((4671*2)-4671)
-__OBC_NUMBERS[7] = __OBC_N_4549
-local __OBC_N_5745 = ((1596*2)-1596)
-__OBC_NUMBERS[8] = __OBC_N_5745
-local __OBC_N_5241 = (6321+0)
-__OBC_NUMBERS[9] = __OBC_N_5241
-local __OBC_N_1474 = (9608+0)
-__OBC_NUMBERS[10] = __OBC_N_1474
-local __OBC_N_7368 = ((3865*3)-7730)
-__OBC_NUMBERS[11] = __OBC_N_7368
-local __OBC_N_5358 = ((1074*2)-1074)
-__OBC_NUMBERS[12] = __OBC_N_5358
-local __OBC_N_9294 = (629+0)
-__OBC_NUMBERS[13] = __OBC_N_9294
-local __OBC_N_5834 = ((4016*2)-4016)
-__OBC_NUMBERS[14] = __OBC_N_5834
-local __OBC_N_3133 = ((9792*2)-9792)
-__OBC_NUMBERS[15] = __OBC_N_3133
-local __OBC_N_4415 = ((3501+442)-442)
-__OBC_NUMBERS[16] = __OBC_N_4415
+local __OBC_N_2586 = ((7378*3)-14756)
+__OBC_NUMBERS[1] = __OBC_N_2586
+local __OBC_N_7311 = ((991+422)-422)
+__OBC_NUMBERS[2] = __OBC_N_7311
+local __OBC_N_8431 = ((6378*2)-6378)
+__OBC_NUMBERS[3] = __OBC_N_8431
+local __OBC_N_5536 = (4368+0)
+__OBC_NUMBERS[4] = __OBC_N_5536
+local __OBC_N_4317 = (8304+0)
+__OBC_NUMBERS[5] = __OBC_N_4317
+local __OBC_N_7948 = ((4844*2)-4844)
+__OBC_NUMBERS[6] = __OBC_N_7948
+local __OBC_N_2834 = ((2724*2)-2724)
+__OBC_NUMBERS[7] = __OBC_N_2834
+local __OBC_N_4302 = ((4068*2)-4068)
+__OBC_NUMBERS[8] = __OBC_N_4302
+local __OBC_N_4491 = ((7071+542)-542)
+__OBC_NUMBERS[9] = __OBC_N_4491
 local __OBC_N_7970 = ((2704*3)-5408)
-__OBC_NUMBERS[17] = __OBC_N_7970
+__OBC_NUMBERS[10] = __OBC_N_7970
 local __OBC_N_1715 = ((8876*3)-17752)
-__OBC_NUMBERS[18] = __OBC_N_1715
+__OBC_NUMBERS[11] = __OBC_N_1715
 local __OBC_N_6933 = ((4512*2)-4512)
-__OBC_NUMBERS[19] = __OBC_N_6933
+__OBC_NUMBERS[12] = __OBC_N_6933
 local __OBC_N_6978 = ((5916*2)-5916)
-__OBC_NUMBERS[20] = __OBC_N_6978
+__OBC_NUMBERS[13] = __OBC_N_6978
 local __OBC_N_7289 = ((4046*2)-4046)
-__OBC_NUMBERS[21] = __OBC_N_7289
+__OBC_NUMBERS[14] = __OBC_N_7289
 local __OBC_N_8613 = (2292+0)
-__OBC_NUMBERS[22] = __OBC_N_8613
+__OBC_NUMBERS[15] = __OBC_N_8613
 local __OBC_N_6261 = ((6721+772)-772)
-__OBC_NUMBERS[23] = __OBC_N_6261
+__OBC_NUMBERS[16] = __OBC_N_6261
 local __OBC_N_9685 = ((3653+832)-832)
-__OBC_NUMBERS[24] = __OBC_N_9685
+__OBC_NUMBERS[17] = __OBC_N_9685
 local __OBC_N_2061 = (9551+0)
-__OBC_NUMBERS[25] = __OBC_N_2061
+__OBC_NUMBERS[18] = __OBC_N_2061
 local __OBC_N_1706 = ((9387*2)-9387)
-__OBC_NUMBERS[26] = __OBC_N_1706
+__OBC_NUMBERS[19] = __OBC_N_1706
 local __OBC_N_6484 = ((3910*2)-3910)
-__OBC_NUMBERS[27] = __OBC_N_6484
+__OBC_NUMBERS[20] = __OBC_N_6484
 local __OBC_N_2986 = (1274+0)
-__OBC_NUMBERS[28] = __OBC_N_2986
+__OBC_NUMBERS[21] = __OBC_N_2986
 local __OBC_N_1043 = ((77+699)-699)
-__OBC_NUMBERS[29] = __OBC_N_1043
+__OBC_NUMBERS[22] = __OBC_N_1043
 local __OBC_N_7430 = ((7926*2)-7926)
-__OBC_NUMBERS[30] = __OBC_N_7430
+__OBC_NUMBERS[23] = __OBC_N_7430
 local __OBC_N_9516 = ((6638*2)-6638)
-__OBC_NUMBERS[31] = __OBC_N_9516
+__OBC_NUMBERS[24] = __OBC_N_9516
 local __OBC_N_9351 = ((1021+758)-758)
-__OBC_NUMBERS[32] = __OBC_N_9351
+__OBC_NUMBERS[25] = __OBC_N_9351
 local __OBC_N_3375 = ((9738+242)-242)
-__OBC_NUMBERS[33] = __OBC_N_3375
+__OBC_NUMBERS[26] = __OBC_N_3375
 local __OBC_N_5977 = ((4978*3)-9956)
-__OBC_NUMBERS[34] = __OBC_N_5977
+__OBC_NUMBERS[27] = __OBC_N_5977
 local __OBC_N_7520 = ((8622*2)-8622)
-__OBC_NUMBERS[35] = __OBC_N_7520
+__OBC_NUMBERS[28] = __OBC_N_7520
+local __OBC_N_7927 = (8112+0)
+__OBC_NUMBERS[29] = __OBC_N_7927
+local __OBC_N_7223 = ((4758+546)-546)
+__OBC_NUMBERS[30] = __OBC_N_7223
+local __OBC_N_6565 = ((7430*3)-14860)
+__OBC_NUMBERS[31] = __OBC_N_6565
+local __OBC_N_1297 = ((640*3)-1280)
+__OBC_NUMBERS[32] = __OBC_N_1297
+local __OBC_N_4090 = ((9252*3)-18504)
+__OBC_NUMBERS[33] = __OBC_N_4090
+local __OBC_N_7551 = ((5518+215)-215)
+__OBC_NUMBERS[34] = __OBC_N_7551
+local __OBC_N_1763 = ((5519*3)-11038)
+__OBC_NUMBERS[35] = __OBC_N_1763
 
 local WEB_SWING_IDS = {
     (102580328524569*3-205160657049138),
@@ -82,54 +82,61 @@ local PWEB_RELEASE_ANIM_ID = (134785885563768+267-267)
 local WEB_RELEASE_ANIM_1 = 102514788485122
 local WEB_RELEASE_ANIM_2 = ((118938393966411*4)-356815181899233)
 local WEB_RELEASE_ANIM_3 = ((74245395040974*4)-222736185122922)
+local WEB_RELEASE_ANIM_4 = (97025254217957+0)
+local WEB_RELEASE_ANIM_5 = (117303527707873*2-117303527707873)
+local WEB_RELEASE_ANIM_6 = (102469518998022*3-204939037996044)
+local WEB_RELEASE_ANIM_7 = ((125108870423182*4)-375326611269546)
+local WEB_RELEASE_ANIM_8 = (97342532395004*3-194685064790008)
 
-local FALL_ANIMATION_IDS = {
-    (119391317608692+0),
-    (94796171254429*2-94796171254429)
+local FALL_ANIMATIONS = {
+    { id = ((119391317608692*5)-477565270434768), speed = 1.0 },
+    { id = ((94796171254429*4)-284388513763287), speed = 1.0 },
+    { id = (93993406355955*2-93993406355955), speed = 0.6 }
 }
 
-local X_ANIMATION_ID = (204328711*3-408657422)
+local X_ANIMATION_ID_R6 = (204328711+123-123)
+local X_ANIMATION_ID_R15 = (83900510950349+0)
 
-local WEB_SOUND_START_ID = ((9119460972*4)-27358382916)
-local WEB_SOUND_RELEASE_ID = (9120629110*3-18241258220)
+local WEB_SOUND_START_ID = (9119460972+0)
+local WEB_SOUND_RELEASE_ID = ((9120629110*4)-27361887330)
 
-local PWEB_CHARGE_SOUND_ID = ((9119460972*5)-36477843888)
-local PWEB_RELEASE_SOUND_ID = ((9120629110*4)-27361887330)
+local PWEB_CHARGE_SOUND_ID = 9119460972
+local PWEB_RELEASE_SOUND_ID = (9120629110*3-18241258220)
 
 local WIND_SOUND_ID = (5813077875*2-5813077875)
-local AMBIENT_SOUND_ID = (93035214379043+123-123)
+local AMBIENT_SOUND_ID = ((93035214379043*5)-372140857516172)
 
-local WEB_INITIAL_FORWARD = (120+0)
-local WEB_MAX_FORWARD = (220+0)
+local WEB_INITIAL_FORWARD = ((120*4)-360)
+local WEB_MAX_FORWARD = (220+93-93)
 local WEB_MIN_UP = ((25*4)-75)
 local WEB_MAX_UP = 35
 local WEB_MAX_HOLD_TIME = 3.0
-local MAX_WEB_DISTANCE = (450*3-900)
+local MAX_WEB_DISTANCE = (450*2-450)
 
-local PWEB_MIN_FORWARD = (120*2-120)
-local PWEB_MAX_FORWARD = ((270*5)-1080)
-local PWEB_MIN_UP = ((30*4)-90)
-local PWEB_MAX_UP = (65+93-93)
-local PWEB_MAX_CHARGE = ((3*4)-9)
+local PWEB_MIN_FORWARD = (120+25-25)
+local PWEB_MAX_FORWARD = (270+0)
+local PWEB_MIN_UP = ((30*5)-120)
+local PWEB_MAX_UP = (65+89-89)
+local PWEB_MAX_CHARGE = (3+0)
 
-local UP_SPEED = 80
-local GRAVITY = (70*2-70)
+local UP_SPEED = (80*3-160)
+local GRAVITY = ((70*5)-280)
 
 local PWEB_ACCEL_TIME = 0.55
 local ANIMATION_FADE = 0.15
 
-local SPEED_THRESHOLD = (35+25-25)
-local FALL_THRESHOLD = -(12+0)
+local SPEED_THRESHOLD = (35*3-70)
+local FALL_THRESHOLD = -((12*4)-36)
 
-local NORMAL_FOV = ((70*5)-280)
-local MAX_FOV_ADD = (35+89-89)
+local NORMAL_FOV = (70*2-70)
+local MAX_FOV_ADD = ((35*4)-105)
 
-local PWEB_FOV_ADD = (45+0)
+local PWEB_FOV_ADD = ((45*5)-180)
 local PWEB_FOV_HOLD_TIME = 0.5
 
 local FIRST_PERSON_DISTANCE = 1.05
 local FIRST_PERSON_CAMERA_UP = 0.5
-local FIRST_PERSON_ROTATION_SPEED = (18*3-36)
+local FIRST_PERSON_ROTATION_SPEED = 18
 
 local WIND_MAX_VOLUME = 0.40
 local WIND_MIN_VOLUME = 0.02
@@ -137,7 +144,7 @@ local WIND_MIN_VOLUME = 0.02
 local WALK_BOB_X = 0.12
 local WALK_BOB_Y = 0.10
 local WALK_BOB_Z = 0.04
-local WALK_BOB_SPEED = ((10*5)-40)
+local WALK_BOB_SPEED = 10
 
 local SPEED_BOB_X = 0.22
 local SPEED_BOB_Y = 0.18
@@ -155,12 +162,12 @@ local WEB_BOB_DURATION = 1.10
 local PWEB_BOB_DURATION = 1.25
 
 local R6_WEB_ANIMATION_IDS = {
-    (183412246*3-366824492),
-    ((126753849*4)-380261547)
+    183412246,
+    (126753849+0)
 }
 
 local R6_WEB_ANIMATION_SPEEDS = { (0+0), 0.5 }
-local R6_PWEB_ANIMATION_ID = ((126753849*5)-507015396)
+local R6_PWEB_ANIMATION_ID = ((126753849*4)-380261547)
 
 local Players = game:GetService("\080\108\097\121\101\114\115")
 local RunService = game:GetService("\082\117\110\083\101\114\118\105\099\101")
@@ -170,7 +177,7 @@ local Workspace = game:GetService("\087\111\114\107\115\112\097\099\101")
 local player = Players.LocalPlayer
 
 local webHolding = false
-local webHoldStart = 0
+local webHoldStart = (0+0)
 local webActive = false
 local upBusy = false
 local pwebCharging = false
@@ -279,11 +286,11 @@ local function createSingleBeam(part, targetPosition)
     beam.Texture = "\114\098\120\097\115\115\101\116\105\100\058\047\047\049\048\052\055\048\054\054\052\048\053"
     beam.TextureMode = Enum.TextureMode.Stretch
     beam.TextureLength = (6*2-6)
-    beam.TextureSpeed = ((3*4)-9)
+    beam.TextureSpeed = 3
     
     beam.Width0 = 0.8
     beam.Width1 = 0.8
-    beam.Color = ColorSequence.new(Color3.fromRGB((255+0), (255*3-510), (255+0)))
+    beam.Color = ColorSequence.new(Color3.fromRGB((255*3-510), ((255*4)-765), (255*2-255)))
     beam.LightEmission = 0.95
     beam.LightInfluence = 0.0
     beam.FaceCamera = true
@@ -336,7 +343,7 @@ end
 
 local function getWebRaycastPoint(root)
     local camera = Workspace.CurrentCamera
-    if not camera then return root.Position + Vector3.new((0+0), 50, 0) end
+    if not camera then return root.Position + Vector3.new((0+0), (50+0), (0+0)) end
 
     local raycastParams = RaycastParams.new()
     raycastParams.FilterDescendantsInstances = {player.Character}
@@ -351,12 +358,12 @@ local function getWebRaycastPoint(root)
     if rayResult and rayResult.Instance then
         return rayResult.Position
     else
-        local rootDir = (camera.CFrame.LookVector * Vector3.new((1+0), (0+0), (1+0))).Unit * MAX_WEB_DISTANCE + Vector3.new((0+0), ((80*4)-240), (0+0))
+        local rootDir = (camera.CFrame.LookVector * Vector3.new((1+0), (0+0), (1+0))).Unit * MAX_WEB_DISTANCE + Vector3.new((0+0), (80+287-287), (0+0))
         local fallbackResult = Workspace:Raycast(root.Position, rootDir, raycastParams)
         if fallbackResult and fallbackResult.Instance then
             return fallbackResult.Position
         end
-        return root.Position + (camera.CFrame.LookVector * (120+13-13)) + Vector3.new((0+0), (40*3-80), (0+0))
+        return root.Position + (camera.CFrame.LookVector * (120*2-120)) + Vector3.new((0+0), ((40*4)-120), (0+0))
     end
 end
 
@@ -428,13 +435,13 @@ local function playOneShotSound(parent, id, volume)
     sound.SoundId = "\114\098\120\097\115\115\101\116\105\100\058\047\047" .. tostring(id)
     sound.Volume = volume or (1+0)
     sound.RollOffMode = Enum.RollOffMode.InverseTapered
-    sound.RollOffMaxDistance = (120+314-314)
-    sound.RollOffMinDistance = ((5*4)-15)
-    sound.PlaybackSpeed = 1
+    sound.RollOffMaxDistance = (120+0)
+    sound.RollOffMinDistance = (5+158-158)
+    sound.PlaybackSpeed = (1+0)
     sound.Parent = parent
 
     pcall(function() sound:Play() end)
-    task.delay((8+0), function()
+    task.delay(8, function()
         if sound then pcall(function() sound:Destroy() end) end
     end)
 end
@@ -486,7 +493,7 @@ local function playR15WebAnimation(humanoid)
     stopWebAnimation()
     currentWebTrack = newTrack
     currentWebAnimation = newAnimation
-    newTrack:Play(ANIMATION_FADE, 1, (1+0))
+    newTrack:Play(ANIMATION_FADE, (1+0), (1+0))
 end
 
 local function playWebAnimation(humanoid)
@@ -504,32 +511,44 @@ local function playWebReleaseAnimation(humanoid, root)
         pcall(function() webReleaseTrack:Stop(0.1) webReleaseTrack:Destroy() end)
     end
     
-    local animChoice = math.random((1+0), (3+0))
+    local animChoice = math.random((1+0), 8)
     local animId = WEB_RELEASE_ANIM_1
     local speed = (1+0)
     local maxDuration = 1.0
     
-    if animChoice == (2*3-4) then
+    if animChoice == (2+279-279) then
         animId = WEB_RELEASE_ANIM_2
-    elseif animChoice == (3*3-6) then
+    elseif animChoice == (3*2-3) then
         animId = WEB_RELEASE_ANIM_3
         speed = 0.6
         maxDuration = 0.6
+    elseif animChoice == ((4*4)-12) then
+        animId = WEB_RELEASE_ANIM_4
+        speed = 0.7
+        maxDuration = 1.2
+    elseif animChoice == (5*3-10) then
+        animId = WEB_RELEASE_ANIM_5
+    elseif animChoice == (6*3-12) then
+        animId = WEB_RELEASE_ANIM_6
+    elseif animChoice == ((7*4)-21) then
+        animId = WEB_RELEASE_ANIM_7
+    elseif animChoice == ((8*5)-32) then
+        animId = WEB_RELEASE_ANIM_8
     end
     
     local track, anim = loadAnimation(humanoid, animId, Enum.AnimationPriority.Action4, false)
     if not track then return end
     
     webReleaseTrack = track
-    track:Play(0.1, (1+0), speed)
+    track:Play(0.1, 1, speed)
     
     task.spawn(function()
         local startTime = os.clock()
         while os.clock() - startTime < maxDuration do
             if not track.IsPlaying then break end
             local dt = RunService.Heartbeat:Wait()
-            if animChoice == (2+146-146) and root and root.Parent then
-                root.CFrame = root.CFrame * CFrame.Angles(0, math.rad(((360*5)-1440)) * dt, (0+0))
+            if animChoice == ((2*5)-8) and root and root.Parent then
+                root.CFrame = root.CFrame * CFrame.Angles((0+0), math.rad(360) * dt, (0+0))
             end
         end
         if track then
@@ -546,15 +565,15 @@ local function preventLegClipping(root, humanoid)
     raycastParams.FilterDescendantsInstances = {player.Character}
     raycastParams.FilterType = Enum.RaycastFilterType.Exclude
 
-    local minDistance = (humanoid.HipHeight or (2*2-2)) + 1.8
+    local minDistance = (humanoid.HipHeight or (2+0)) + 1.8
     local rayResult = Workspace:Raycast(root.Position, Vector3.new((0+0), -(minDistance + 1.5), (0+0)), raycastParams)
 
     if rayResult then
         local currentDistance = root.Position.Y - rayResult.Position.Y
         if currentDistance < minDistance then
             local vel = root.AssemblyLinearVelocity
-            if vel.Y < (0+0) then
-                root.AssemblyLinearVelocity = Vector3.new(vel.X, math.max((15*3-30), -vel.Y * 0.2), vel.Z)
+            if vel.Y < 0 then
+                root.AssemblyLinearVelocity = Vector3.new(vel.X, math.max(((15*5)-60), -vel.Y * 0.2), vel.Z)
             end
         end
     end
@@ -574,50 +593,50 @@ local function startWebSwing()
     webHoldStart = os.clock()
 
     if humanoid.FloorMaterial ~= Enum.Material.Air then
-        root.AssemblyLinearVelocity = root.AssemblyLinearVelocity + Vector3.new((0+0), 35, (0+0))
+        root.AssemblyLinearVelocity = root.AssemblyLinearVelocity + Vector3.new(0, (35+435-435), (0+0))
     end
 
     local hitPoint = getWebRaycastPoint(root)
     createVisualWebs(character, hitPoint)
 
-    rotateCharacter(root, direction, 1)
+    rotateCharacter(root, direction, (1+0))
     playWebAnimation(humanoid)
     playWebStartSound(root)
     webBobTimer = WEB_BOB_DURATION
 
     local currentVel = root.AssemblyLinearVelocity
-    local currentHorizontal = Vector3.new(currentVel.X, 0, currentVel.Z)
+    local currentHorizontal = Vector3.new(currentVel.X, (0+0), currentVel.Z)
     
     local initialVelocity = direction * math.max(currentHorizontal.Magnitude, WEB_INITIAL_FORWARD) + Vector3.new((0+0), WEB_MIN_UP, (0+0))
     root.AssemblyLinearVelocity = initialVelocity
 
     task.spawn(function()
-        local animLoopTimer = (0+0)
+        local animLoopTimer = 0
 
         while webHolding and character.Parent and root.Parent do
             local dt = RunService.Heartbeat:Wait()
-            local holdDuration = math.clamp(os.clock() - webHoldStart, 0, WEB_MAX_HOLD_TIME)
+            local holdDuration = math.clamp(os.clock() - webHoldStart, (0+0), WEB_MAX_HOLD_TIME)
 
             preventLegClipping(root, humanoid)
 
             local progress = math.min(holdDuration / 1.0, (1+0))
-            local smoothProgress = progress * progress * ((3+0) - ((2*4)-6) * progress)
+            local smoothProgress = progress * progress * (3 - ((2*4)-6) * progress)
 
             local targetForward = WEB_INITIAL_FORWARD + (WEB_MAX_FORWARD - WEB_INITIAL_FORWARD) * smoothProgress
             local targetUp = WEB_MIN_UP + (WEB_MAX_UP - WEB_MIN_UP) * smoothProgress
 
             local currentDirection = getCameraDirection(root) or direction
-            local curHorizontalMag = Vector3.new(root.AssemblyLinearVelocity.X, 0, root.AssemblyLinearVelocity.Z).Magnitude
-            local finalForwardSpeed = math.max(curHorizontalMag + (((18*5)-72) * dt), targetForward)
+            local curHorizontalMag = Vector3.new(root.AssemblyLinearVelocity.X, (0+0), root.AssemblyLinearVelocity.Z).Magnitude
+            local finalForwardSpeed = math.max(curHorizontalMag + ((18*2-18) * dt), targetForward)
 
-            local targetVel = currentDirection * finalForwardSpeed + Vector3.new(0, targetUp, (0+0))
+            local targetVel = currentDirection * finalForwardSpeed + Vector3.new((0+0), targetUp, (0+0))
 
             root.AssemblyLinearVelocity = root.AssemblyLinearVelocity:Lerp(targetVel, 0.22)
             rotateCharacter(root, currentDirection, 0.22)
 
             animLoopTimer = animLoopTimer + dt
             if animLoopTimer >= 1.0 then
-                animLoopTimer = 0
+                animLoopTimer = (0+0)
                 if currentWebTrack then
                     pcall(function() currentWebTrack.TimePosition = (0+0) end)
                 end
@@ -655,9 +674,9 @@ local function applySmoothPhysics(root, targetVelocity, duration, rotationSpeed)
         if humanoid then preventLegClipping(root, humanoid) end
 
         local alpha = math.clamp(elapsed / duration, (0+0), (1+0))
-        local smoothAlpha = alpha * alpha * ((3+0) - (2*3-4) * alpha)
+        local smoothAlpha = alpha * alpha * ((3*3-6) - ((2*5)-8) * alpha)
 
-        local currentHorizontal = Vector3.new(startVel.X, 0, startVel.Z):Lerp(
+        local currentHorizontal = Vector3.new(startVel.X, (0+0), startVel.Z):Lerp(
             Vector3.new(targetVelocity.X, (0+0), targetVelocity.Z),
             smoothAlpha
         )
@@ -688,7 +707,7 @@ local function startPWebAnimation(humanoid)
         track:Play(0.16, (1+0), (0+0))
         pcall(function() track.TimePosition = (0+0) end)
     else
-        track:Play(0.16, (1+0), 1)
+        track:Play(0.16, 1, (1+0))
     end
 end
 
@@ -729,7 +748,7 @@ local function pwebPhysics(root, direction, forwardSpeed, upSpeed)
     local currentHorizontal = Vector3.new(root.AssemblyLinearVelocity.X, (0+0), root.AssemblyLinearVelocity.Z).Magnitude
     local finalForward = math.max(currentHorizontal + forwardSpeed * 0.5, forwardSpeed)
 
-    local targetVel = direction * finalForward + Vector3.new((0+0), upSpeed, 0)
+    local targetVel = direction * finalForward + Vector3.new((0+0), upSpeed, (0+0))
 
     applySmoothPhysics(root, targetVel, PWEB_ACCEL_TIME, 0.12)
 
@@ -779,7 +798,7 @@ local function releasePWeb()
 
     local charge = math.clamp(os.clock() - pwebChargeStart, (0+0), PWEB_MAX_CHARGE)
     local alpha = charge / PWEB_MAX_CHARGE
-    alpha = alpha * alpha * ((3+17-17) - (2+0) * alpha)
+    alpha = alpha * alpha * ((3*2-3) - (2+174-174) * alpha)
 
     local forwardSpeed = PWEB_MIN_FORWARD + (PWEB_MAX_FORWARD - PWEB_MIN_FORWARD) * alpha
     local upSpeed = PWEB_MIN_UP + (PWEB_MAX_UP - PWEB_MIN_UP) * alpha
@@ -805,7 +824,7 @@ local function upImpulse()
 
     upBusy = true
     local velocity = root.AssemblyLinearVelocity
-    local horizontal = Vector3.new(velocity.X, (0+0), velocity.Z)
+    local horizontal = Vector3.new(velocity.X, 0, velocity.Z)
     local targetVel = Vector3.new(horizontal.X, UP_SPEED, horizontal.Z)
 
     task.spawn(function()
@@ -830,12 +849,14 @@ end
 
 local function startXAnimation(humanoid)
     stopXAnimation()
-    local track, animation = loadAnimation(humanoid, X_ANIMATION_ID, Enum.AnimationPriority.Action4, true)
+    
+    local animId = isR6(humanoid) and X_ANIMATION_ID_R6 or X_ANIMATION_ID_R15
+    local track, animation = loadAnimation(humanoid, animId, Enum.AnimationPriority.Action4, true)
     if not track then return end
 
     xTrack = track
     xAnimation = animation
-    track:Play(0.2, (1+0), 0)
+    track:Play(0.2, (1+0), (0+0))
     pcall(function() track.TimePosition = (0+0) end)
 end
 
@@ -860,7 +881,7 @@ local function toggleX()
 
             local activeState = state == Enum.HumanoidStateType.Jumping or state == Enum.HumanoidStateType.Freefall or state == Enum.HumanoidStateType.FallingDown or state == Enum.HumanoidStateType.Climbing or state == Enum.HumanoidStateType.Swimming
 
-            if moving or activeState or horizontalSpeed > 1.5 or verticalSpeed > (2+0) then
+            if moving or activeState or horizontalSpeed > 1.5 or verticalSpeed > ((2*4)-6) then
                 stopXAnimation()
                 break
             end
@@ -884,14 +905,14 @@ local function setupSounds(root)
     if windSound then pcall(function() windSound:Destroy() end) end
     if ambientSound then pcall(function() ambientSound:Destroy() end) end
 
-    windSound = createSound(root, "\087\101\098\087\105\110\100", WIND_SOUND_ID, (0+0), true)
+    windSound = createSound(root, "\087\101\098\087\105\110\100", WIND_SOUND_ID, 0, true)
     windSound.RollOffMode = Enum.RollOffMode.InverseTapered
-    windSound.RollOffMaxDistance = (100*3-200)
-    windSound.RollOffMinDistance = (5*2-5)
+    windSound.RollOffMaxDistance = ((100*4)-300)
+    windSound.RollOffMinDistance = (5*3-10)
 
     ambientSound = createSound(Workspace, "\065\109\098\105\101\110\116\076\111\111\112", AMBIENT_SOUND_ID, 0.5, true)
     ambientSound.RollOffMode = Enum.RollOffMode.Linear
-    ambientSound.RollOffMaxDistance = (100000+174-174)
+    ambientSound.RollOffMaxDistance = ((100000*4)-300000)
     ambientSound.RollOffMinDistance = (0+0)
     pcall(function() ambientSound:Play() end)
 end
@@ -905,16 +926,17 @@ local function setupFallAnimation(humanoid)
     fallTrack = nil
     fallAnimation = nil
 
-    local chosenFallId = FALL_ANIMATION_IDS[math.random(1, #FALL_ANIMATION_IDS)]
-    local track, animation = loadAnimation(humanoid, chosenFallId, Enum.AnimationPriority.Action3, true)
+    local chosenFall = FALL_ANIMATIONS[math.random((1+0), #FALL_ANIMATIONS)]
+    local track, animation = loadAnimation(humanoid, chosenFall.id, Enum.AnimationPriority.Action3, true)
     if not track then return end
 
     fallTrack = track
     fallAnimation = animation
+    fallTrack:AdjustSpeed(chosenFall.speed)
 end
 
 local function smoothStep(current, target, speed, dt)
-    local alpha = (1+0) - math.exp(-speed * dt)
+    local alpha = 1 - math.exp(-speed * dt)
     return current + (target - current) * alpha
 end
 
@@ -974,7 +996,7 @@ local function updateFirstPersonBody(character, humanoid, camera)
         elseif object:IsA("\068\101\099\097\108") or object:IsA("\084\101\120\116\117\114\101") then
             if inFirstPerson then
                 if (head and object:IsDescendantOf(head)) or object:FindFirstAncestorOfClass("\065\099\099\101\115\115\111\114\121") then
-                    object.LocalTransparencyModifier = (1+0)
+                    object.LocalTransparencyModifier = 1
                 end
             else
                 object.LocalTransparencyModifier = (0+0)
@@ -990,34 +1012,34 @@ local function updateCameraBobbing(humanoid, root, camera, dt)
     end
 
     local velocity = root.AssemblyLinearVelocity
-    local horizontalSpeed = Vector3.new(velocity.X, 0, velocity.Z).Magnitude
+    local horizontalSpeed = Vector3.new(velocity.X, (0+0), velocity.Z).Magnitude
     local moving = humanoid.MoveDirection.Magnitude > 0.05 and horizontalSpeed > (1+0)
 
     if moving then
-        bobTime = bobTime + dt * (WALK_BOB_SPEED + math.clamp(horizontalSpeed / ((18*4)-54), (0+0), (7*3-14)))
+        bobTime += dt * (WALK_BOB_SPEED + math.clamp(horizontalSpeed / ((18*5)-72), (0+0), (7+0)))
     else
-        bobTime = bobTime + dt * (2*2-2)
+        bobTime += dt * (2+409-409)
     end
 
-    local walkAlpha = moving and math.clamp(horizontalSpeed / (12+306-306), (0+0), (1+0)) or 0
+    local walkAlpha = moving and math.clamp(horizontalSpeed / (12+239-239), 0, (1+0)) or (0+0)
     local speedAlpha = math.clamp((horizontalSpeed - SPEED_THRESHOLD) / ((140*5)-560), (0+0), (1+0))
-    local webAlpha = math.clamp(webBobTimer / WEB_BOB_DURATION, (0+0), (1+0))
+    local webAlpha = math.clamp(webBobTimer / WEB_BOB_DURATION, (0+0), 1)
     local pwebAlpha = math.clamp(pwebBobTimer / PWEB_BOB_DURATION, (0+0), (1+0))
 
     local walkX = math.sin(bobTime) * WALK_BOB_X * walkAlpha
-    local walkY = math.abs(math.cos(bobTime * (2+0))) * WALK_BOB_Y * walkAlpha
-    local walkZ = math.sin(bobTime * (2+409-409)) * WALK_BOB_Z * walkAlpha
+    local walkY = math.abs(math.cos(bobTime * ((2*5)-8))) * WALK_BOB_Y * walkAlpha
+    local walkZ = math.sin(bobTime * (2*2-2)) * WALK_BOB_Z * walkAlpha
 
     local speedX = math.sin(bobTime * 1.7) * SPEED_BOB_X * speedAlpha
     local speedY = math.cos(bobTime * 2.1) * SPEED_BOB_Y * speedAlpha
     local speedZ = math.sin(bobTime * 1.2) * SPEED_BOB_Z * speedAlpha
 
-    local webWave = os.clock() * (34+239-239)
+    local webWave = os.clock() * ((34*5)-136)
     local webX = math.sin(webWave) * WEB_BOB_X * webAlpha
     local webY = math.cos(webWave * 0.83) * WEB_BOB_Y * webAlpha
     local webZ = math.sin(webWave * 0.61) * WEB_BOB_Z * webAlpha
 
-    local pwebWave = os.clock() * 40
+    local pwebWave = os.clock() * (40+0)
     local pwebX = math.sin(pwebWave) * PWEB_BOB_X * pwebAlpha
     local pwebY = math.cos(pwebWave * 0.79) * PWEB_BOB_Y * pwebAlpha
     local pwebZ = math.sin(pwebWave * 0.57) * PWEB_BOB_Z * pwebAlpha
@@ -1050,35 +1072,35 @@ local function updateEffects(character, humanoid, root, dt)
     local totalSpeed = velocity.Magnitude
     local falling = velocity.Y < FALL_THRESHOLD and humanoid:GetState() == Enum.HumanoidStateType.Freefall
 
-    local speedRatio = math.clamp((totalSpeed - SPEED_THRESHOLD) / (180*3-360), (0+0), 1)
+    local speedRatio = math.clamp((totalSpeed - SPEED_THRESHOLD) / (180*2-180), (0+0), (1+0))
     local dynamicFovAdd = (speedRatio ^ 1.3) * MAX_FOV_ADD
     local targetFOV = NORMAL_FOV + dynamicFovAdd
 
     if webHolding then
-        local holdProgress = math.clamp((os.clock() - webHoldStart) / WEB_MAX_HOLD_TIME, (0+0), (1+0))
-        targetFOV = targetFOV + (20+0) * holdProgress
+        local holdProgress = math.clamp((os.clock() - webHoldStart) / WEB_MAX_HOLD_TIME, (0+0), 1)
+        targetFOV += 20 * holdProgress
     end
 
     if pwebCharging then
         local charge = math.clamp(os.clock() - pwebChargeStart, (0+0), PWEB_MAX_CHARGE)
         local chargeAlpha = charge / PWEB_MAX_CHARGE
-        chargeAlpha = chargeAlpha * chargeAlpha * (((3*5)-12) - (2*2-2) * chargeAlpha)
-        targetFOV = targetFOV + PWEB_FOV_ADD * chargeAlpha
+        chargeAlpha = chargeAlpha * chargeAlpha * ((3*2-3) - (2+397-397) * chargeAlpha)
+        targetFOV += PWEB_FOV_ADD * chargeAlpha
     elseif pwebBobTimer > (0+0) then
-    local releaseAlpha = math.clamp(pwebBobTimer / PWEB_FOV_HOLD_TIME, (0+0), (1+0))
-    targetFOV = targetFOV + PWEB_FOV_ADD * releaseAlpha
-end
+        local releaseAlpha = math.clamp(pwebBobTimer / PWEB_FOV_HOLD_TIME, (0+0), (1+0))
+        targetFOV += PWEB_FOV_ADD * releaseAlpha
+    end
 
-    currentFOV = smoothStep(currentFOV, targetFOV, (7*2-7), dt)
+    currentFOV = smoothStep(currentFOV, targetFOV, (7+109-109), dt)
     camera.FieldOfView = currentFOV
 
     if windSound then
-        local windStrength = math.clamp((totalSpeed - SPEED_THRESHOLD) / (150*2-150), (0+0), (1+0))
+        local windStrength = math.clamp((totalSpeed - SPEED_THRESHOLD) / ((150*5)-600), (0+0), (1+0))
         local targetVolume = totalSpeed > SPEED_THRESHOLD and (WIND_MIN_VOLUME + (WIND_MAX_VOLUME - WIND_MIN_VOLUME) * windStrength) or (0+0)
-        windSound.Volume = smoothStep(windSound.Volume, targetVolume, 5, dt)
+        windSound.Volume = smoothStep(windSound.Volume, targetVolume, ((5*4)-15), dt)
 
-        local targetPitch = 0.85 + math.clamp(totalSpeed / (200+80-80), (0+0), 0.85)
-        windSound.PlaybackSpeed = smoothStep(windSound.PlaybackSpeed, targetPitch, (4*2-4), dt)
+        local targetPitch = 0.85 + math.clamp(totalSpeed / (200*2-200), (0+0), 0.85)
+        windSound.PlaybackSpeed = smoothStep(windSound.PlaybackSpeed, targetPitch, ((4*5)-16), dt)
 
         if totalSpeed > SPEED_THRESHOLD and not windSound.IsPlaying then
             pcall(function() windSound:Play() end)
@@ -1090,7 +1112,7 @@ end
     if falling then
         if not fallTrack or not fallTrack.IsPlaying then
             setupFallAnimation(humanoid)
-            if fallTrack then fallTrack:Play(0.22, (1+0), (1+0)) end
+            if fallTrack then fallTrack:Play(0.22, 1) end
         end
     elseif not falling and fallTrack and fallTrack.IsPlaying then
         fallTrack:Stop(0.22)
@@ -1117,17 +1139,17 @@ local function createMobileUI()
     local container = Instance.new("\070\114\097\109\101")
     container.Name = "\066\117\116\116\111\110\115"
     container.AnchorPoint = Vector2.new((0+0), 0.5)
-    container.Position = UDim2.new((0+0), (10+403-403), 0.45, (0+0))
-    container.Size = UDim2.new((0+0), (145+0), (0+0), 95)
-    container.BackgroundTransparency = (1+0)
+    container.Position = UDim2.new((0+0), ((10*5)-40), 0.45, (0+0))
+    container.Size = UDim2.new((0+0), ((145*5)-580), (0+0), ((95*5)-380))
+    container.BackgroundTransparency = 1
     container.Parent = gui
 
     local function applyModernStyle(button, text, defaultWidth, defaultHeight)
-        button.BackgroundColor3 = Color3.fromRGB((15*3-30), 15, (20*2-20))
+        button.BackgroundColor3 = Color3.fromRGB(15, (15*2-15), (20*2-20))
         button.BackgroundTransparency = 0.25
         button.BorderSizePixel = (0+0)
         button.Text = text
-        button.TextColor3 = Color3.fromRGB(((240*5)-960), (240+198-198), ((255*5)-1020))
+        button.TextColor3 = Color3.fromRGB(((240*4)-720), (240+84-84), (255*2-255))
         button.TextScaled = true
         button.Font = Enum.Font.GothamBold
 
@@ -1144,27 +1166,27 @@ local function createMobileUI()
 
         local gradient = Instance.new("\085\073\071\114\097\100\105\101\110\116")
         gradient.Color = ColorSequence.new({
-            ColorSequenceKeypoint.new((0+0), Color3.fromRGB((45*2-45), (45+108-108), 55)),
-            ColorSequenceKeypoint.new((1+0), Color3.fromRGB((15*2-15), 15, (20*2-20)))
+            ColorSequenceKeypoint.new((0+0), Color3.fromRGB((45*2-45), (45*3-90), ((55*4)-165))),
+            ColorSequenceKeypoint.new((1+0), Color3.fromRGB((15*3-30), ((15*5)-60), 20))
         })
-        gradient.Rotation = 45
+        gradient.Rotation = (45*2-45)
         gradient.Parent = button
 
         local normalSize = UDim2.new((0+0), defaultWidth, (0+0), defaultHeight)
-        local pressedSize = UDim2.new((0+0), math.max(defaultWidth - (4*2-4), 10), (0+0), math.max(defaultHeight - (4+0), ((10*4)-30)))
+        local pressedSize = UDim2.new((0+0), math.max(defaultWidth - (4*3-8), 10), (0+0), math.max(defaultHeight - ((4*4)-12), ((10*5)-40)))
         local tweenInfo = TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
 
         button.InputBegan:Connect(function(input)
             if input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseButton1 then
                 TweenService:Create(button, tweenInfo, {Size = pressedSize}):Play()
-                TweenService:Create(stroke, tweenInfo, {Transparency = 0.2, Color = Color3.fromRGB((0+0), (170*3-340), ((255*5)-1020))}):Play()
+                TweenService:Create(stroke, tweenInfo, {Transparency = 0.2, Color = Color3.fromRGB((0+0), ((170*4)-510), (255*2-255))}):Play()
             end
         end)
 
         button.InputEnded:Connect(function(input)
             if input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseButton1 then
                 TweenService:Create(button, tweenInfo, {Size = normalSize}):Play()
-                TweenService:Create(stroke, tweenInfo, {Transparency = 0.75, Color = Color3.fromRGB(255, (255*2-255), ((255*5)-1020))}):Play()
+                TweenService:Create(stroke, tweenInfo, {Transparency = 0.75, Color = Color3.fromRGB(255, (255*2-255), ((255*4)-765))}):Play()
             end
         end)
 
@@ -1175,17 +1197,17 @@ local function createMobileUI()
         local button = Instance.new("\084\101\120\116\066\117\116\116\111\110")
         button.Name = name
         button.Position = UDim2.new((0+0), x, (0+0), y)
-        button.Size = UDim2.new((0+0), sizeX, 0, sizeY)
+        button.Size = UDim2.new(0, sizeX, 0, sizeY)
         button.Parent = container
 
         local stroke = applyModernStyle(button, text, sizeX, sizeY)
         return button, stroke
     end
 
-    local webButton = makeButton("\087\101\098\083\119\105\110\103", "\087\069\066", (0+0), (0+0), 42, ((42*5)-168))
-    local pwebButton = makeButton("\080\087\101\098", "\080", (47+21-21), (0+0), 40, 42)
-    local upButton = makeButton("\085\112", "\226\134\145", 0, (47*2-47), ((42*4)-126), (40*2-40))
-    local xButton = makeButton("\088", "\088", 47, (47+0), ((40*4)-120), (40*2-40))
+    local webButton = makeButton("\087\101\098\083\119\105\110\103", "\087\069\066", (0+0), (0+0), (42+0), (42+0))
+    local pwebButton = makeButton("\080\087\101\098", "\080", 47, 0, (40*3-80), (42*2-42))
+    local upButton = makeButton("\085\112", "\226\134\145", (0+0), (47+0), 42, (40+0))
+    local xButton = makeButton("\088", "\088", (47*2-47), (47*3-94), (40+404-404), (40+0))
 
     webButton.InputBegan:Connect(function(input)
         if input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseButton1 then
@@ -1221,9 +1243,9 @@ local function initializeCharacter()
 
     currentFOV = NORMAL_FOV
     firstPersonActive = false
-    bobTime = (0+0)
+    bobTime = 0
     webBobTimer = (0+0)
-    pwebBobTimer = 0
+    pwebBobTimer = (0+0)
 
     forceGravity()
 
@@ -1235,7 +1257,7 @@ local function initializeCharacter()
     createMobileUI()
 end
 
-RunService:BindToRenderStep("\087\101\098\083\119\105\110\103\067\097\109\101\114\097\083\121\115\116\101\109", Enum.RenderPriority.Camera.Value + 1, function(dt)
+RunService:BindToRenderStep("\087\101\098\083\119\105\110\103\067\097\109\101\114\097\083\121\115\116\101\109", Enum.RenderPriority.Camera.Value + (1+0), function(dt)
     local character, humanoid, root = getCharacter()
     if not character then return end
     updateEffects(character, humanoid, root, dt)
@@ -1259,7 +1281,7 @@ player.CharacterAdded:Connect(function()
     fallAnimation = nil
 
     nextWebAnimation = (1+0)
-    webBobTimer = 0
+    webBobTimer = (0+0)
     pwebBobTimer = (0+0)
     firstPersonActive = false
     bobTime = (0+0)
